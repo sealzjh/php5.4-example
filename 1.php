@@ -1,7 +1,7 @@
 <?php
 $arr = array('a', 'b', 'c');  //old
 
-$arr = ['a','b','c'];     //new
+$arr = ['a'=>'a','b'=>'b','c'=>'c'];     //new
 
 var_dump($arr);
 
